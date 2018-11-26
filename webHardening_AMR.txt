@@ -1,0 +1,25 @@
+[Version]
+version=1
+
+[files]
+;Begin of Change - HanifBarik - 09/09/2014 - Prevent file upload
+;Extensions=|.txt|.htm|.html|.doc|.docx|.xls|.xlsx|.pdf|.jpg|.gif|.ppt|.pptx|.png|
+Extensions=
+;End of Change - HanifBarik - 09/09/2014 - Prevent file upload
+
+[Global]
+silentmode=1
+
+
+[cleansers]
+silentmode=1
+
+[JSON]
+writeoutparams=0
+;Begin of Change - HanifBarik - 07/15/2014 - KPMG Mobile Security
+schemamandatory=0
+;End of Change - HanifBarik - 07/15/2014 - KPMG Mobile Security
+
+[XML]
+writeoutparams=0
+schemamandatory=0
