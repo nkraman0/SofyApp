@@ -1,2 +1,1 @@
-# SofyApp
-SofyApp
+This is readme for Sofy App
