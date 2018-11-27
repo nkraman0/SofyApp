@@ -1,5 +1,5 @@
 [Version]
-version=1
+version=2
 
 [files]
 ;Begin of Change - HanifBarik - 09/09/2014 - Prevent file upload
